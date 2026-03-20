@@ -65,7 +65,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 ---
 
-<div>
+<div align="center">
   Let's Connect
 </div>
 <div align="center">
@@ -74,7 +74,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 <a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/muhammad.sibtain.956909" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" /></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/muhammad._.sibtain" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="mailto:mumammadsubtain62@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
+<a href="mailto:mumammadsubtain.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
 
 <br/><br/>
 
