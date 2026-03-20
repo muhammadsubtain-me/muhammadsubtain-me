@@ -63,7 +63,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 
 
-<div align="center">
+<div style="padding-10px" align="center">
   Let's Connect
 </div>
 <div align="center">
