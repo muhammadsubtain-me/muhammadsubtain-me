@@ -4,28 +4,19 @@
 
 </div>
 
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammadsubtain-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-subtain-34280b243/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhammadsubtain-me)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumammadsubtain.cs@gmail.com)
-[![Phone](https://img.shields.io/badge/0304--2335382-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923042335382)
-
-![Profile Views](https://komarev.com/ghpvc/?username=muhammadsubtain-me&label=Profile%20Views&color=a78bfa&style=for-the-badge)
-
-</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-> Computer Science student at **PIEAS** with hands-on experience building responsive, full-stack web applications. I love turning ideas into fast, scalable, and beautiful web products.
+> I am Muhammad Subtain from Islamabad, Pakistan
 
 - 🎓 Studying **BSc Computer & Information Science** at PIEAS, Islamabad
 - 💼 Former **Web Developer Intern** at AI Naeco Blue (Berlin, Germany — Remote)
+- 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 - 🚀 Passionate about **React.js**, **Next.js**, and building production-grade full-stack apps
-- 📬 Reach me at: **mumammadsubtain.cs@gmail.com**
+
 
 ---
 
@@ -52,7 +43,6 @@
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
@@ -87,6 +77,16 @@
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge)](https://muhammadsubtain-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-subtain-34280b243/)
 [![Email](https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge)](mailto:mumammadsubtain.cs@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/muhammadsubtain)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/muhammadsubtain)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mumammadsubtain.cs@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
