@@ -57,53 +57,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 🔹 [AI Naeco Blue — Interns Portal](https://github.com/subhan-0786/AI-Naeco-Blue-Interns-Portal)
-> Full-stack intern management system · 2025
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-- Task assignment system, real-time notifications, Firebase Authentication & RESTful API integration
-- Fully mobile-responsive and cross-browser compatible
-
----
-
-### 🔹 [Personal Portfolio Website](https://muhammadsubtain-portfolio.vercel.app/)
-> React.js · Tailwind CSS · 2026
-
-![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-- Smooth animations, project showcases, and contact form
-- Deployed on **Vercel** with **GitHub CI/CD** pipeline
-
----
-
-### 🔹 Custom Version Control System
-> C++ · CLI · Data Structures · 2026
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-
-- Git-inspired CLI tool supporting repo init, staging, commits, branching, and rollback
-- Efficient snapshot storage using advanced data structures
-
----
-
-### 🔹 Street Fighter 2D Game
-> Java · OOP · Game Development · 2025
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-- Built with full OOP design principles
-- Features character movement, collision detection, health system & real-time controls
-
----
 
 ## 🔥 My Stats
 
