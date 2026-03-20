@@ -4,8 +4,6 @@
 
 </div>
 
-
-
 ---
 
 ## 🧑‍💻 About Me
@@ -16,7 +14,6 @@
 - 💼 Former **Web Developer Intern** at AI Naeco Blue (Berlin, Germany — Remote)
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 - 🚀 Passionate about **React.js**, **Next.js**, and building production-grade full-stack apps
-
 
 ---
 
@@ -47,8 +44,6 @@
 
 ---
 
-
-
 ## 🔥 My Stats
 
 <div align="center">
@@ -72,18 +67,8 @@
 
 <div align="center">
 
-### 📫 Let's Connect & Build Something Great!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-a78bfa?style=for-the-badge)](https://muhammadsubtain-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammad-subtain-34280b243/)
-[![Email](https://img.shields.io/badge/📧_Email-Reach_Out-EA4335?style=for-the-badge)](mailto:mumammadsubtain.cs@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
+<a href="https://muhammadsubtain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/--%23a78bfa?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/"><img src="https://img.shields.io/badge/--%230A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://facebook.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%231877F2?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
 <a href="mailto:mumammadsubtain.cs@gmail.com"><img src="https://img.shields.io/badge/--%23EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
