@@ -12,6 +12,8 @@
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mumammadsubtain.cs@gmail.com)
 [![Phone](https://img.shields.io/badge/0304--2335382-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923042335382)
 
+![Profile Views](https://komarev.com/ghpvc/?username=muhammadsubtain-me&label=Profile%20Views&color=a78bfa&style=for-the-badge)
+
 </div>
 
 ---
@@ -149,11 +151,9 @@
 
 <div align="center">
 
-![Muhammad Subtain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff)
+![Muhammad Subtain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=false&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubtain-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsubtain-me&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
 
 </div>
 
