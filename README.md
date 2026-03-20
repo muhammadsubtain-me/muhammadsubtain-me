@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-> I am Muhammad Subtain from Islamabad, Pakistan
+I am Muhammad Subtain from Islamabad, Pakistan
 
 - 🎓 Studying **BSc Computer & Information Science** at PIEAS, Islamabad
 - 💼 Former **Web Developer Intern** at AI Naeco Blue (Berlin, Germany — Remote)
@@ -65,13 +65,16 @@
 
 ---
 
+<div>
+  Let's Connect
+</div>
 <div align="center">
 
 <a href="https://muhammadsubtain-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="https://facebook.com/muhammadsubtain" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/muhammadsubtain" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="mailto:mumammadsubtain.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
+<a href="https://www.facebook.com/" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="mailto:mumammadsubtain62@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
 
 <br/><br/>
 
