@@ -63,7 +63,7 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsubtain-me&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&stroke=a78bfa)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=subhan-0786&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&stroke=a78bfa)](https://git.io/streak-stats)
 
 </div>
 
