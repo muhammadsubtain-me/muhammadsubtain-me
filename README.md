@@ -20,11 +20,10 @@
 
 ## 🧑‍💻 About Me
 
-> Computer Science student at **PIEAS** (CGPA: 3.53/4.0) with hands-on experience building responsive, full-stack web applications. I love turning ideas into fast, scalable, and beautiful web products.
+> Computer Science student at **PIEAS** with hands-on experience building responsive, full-stack web applications. I love turning ideas into fast, scalable, and beautiful web products.
 
 - 🎓 Studying **BSc Computer & Information Science** at PIEAS, Islamabad
 - 💼 Former **Web Developer Intern** at AI Naeco Blue (Berlin, Germany — Remote)
-- 🏆 **Top 50 Nationwide** — 20th National Science Talent Contest (2023), HEC × PIEAS
 - 🚀 Passionate about **React.js**, **Next.js**, and building production-grade full-stack apps
 - 📬 Reach me at: **mumammadsubtain.cs@gmail.com**
 
@@ -55,26 +54,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 💼 Experience
-
-<table>
-<tr>
-<td>
-
-### 🏢 AI Naeco Blue — Web Developer Intern *(Remote)*
-📍 Berlin, Germany &nbsp;|&nbsp; 📅 Aug – Sep 2025
-
-- ✅ Completed 8-week intensive training in **React.js**, **Next.js**, **Firebase**, and **Node.js**
-- 🚀 Built a full-stack **Interns Management Portal** with real-time task assignment, progress tracking & live notifications
-- 🔗 Integrated **RESTful APIs** and built responsive UI with **Tailwind CSS**
-- 🤝 Collaborated in a remote distributed team using **Git-based workflows**
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -123,27 +102,6 @@
 
 - Built with full OOP design principles
 - Features character movement, collision detection, health system & real-time controls
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | GPA/Grade |
-|--------|------------|----------|-----------|
-| 🎓 BSc Computer & Information Science | PIEAS, Islamabad | Sep 2024 – Present | **3.53 / 4.0** |
-| 📘 FSc Pre-Engineering | PAEC Model College, Chashma | 2022 – 2024 | **Grade A** |
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-🥇 **Top 50 Nationwide** — 20th National Science Talent Contest (2023)
-
-*STEM Career Program · Joint initiative of HEC × PIEAS*
-
-</div>
 
 ---
 
