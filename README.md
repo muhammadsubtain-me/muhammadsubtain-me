@@ -84,9 +84,9 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/muhammadsubtain)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/muhammadsubtain)
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mumammadsubtain.cs@gmail.com)
+<a href="https://facebook.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%231877F2?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
+<a href="mailto:mumammadsubtain.cs@gmail.com"><img src="https://img.shields.io/badge/--%23EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
