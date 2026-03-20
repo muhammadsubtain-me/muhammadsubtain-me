@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Subtain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Web%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Subtain&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -13,7 +13,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 - 🚀 Passionate about **React.js**, **Next.js**, and building production-grade full-stack apps
 
-
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+---
 
 ## 🔥 My Stats
 
@@ -61,16 +61,14 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 </div>
 
-
-<br/><br/>
+---
 
 <div align="center">
+<br/>
   Let's Connect
+<br/>
 </div>
 <div align="center">
-
-<br/><br/>
-
 
 <a href="https://muhammadsubtain-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
