@@ -67,11 +67,13 @@
 
 <div align="center">
 
-<a href="https://muhammadsubtain-portfolio.vercel.app/"><img src="https://img.shields.io/badge/--%23a78bfa?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/"><img src="https://img.shields.io/badge/--%230A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://facebook.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%231877F2?style=flat-square&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="https://instagram.com/muhammadsubtain"><img src="https://img.shields.io/badge/--%23E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;
-<a href="mailto:mumammadsubtain.cs@gmail.com"><img src="https://img.shields.io/badge/--%23EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://muhammadsubtain-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="https://facebook.com/muhammadsubtain" target="_blank"><img src="https://cdn.simpleicons.org/facebook/1877F2" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="https://instagram.com/muhammadsubtain" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" /></a>&nbsp;&nbsp;
+<a href="mailto:mumammadsubtain.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
