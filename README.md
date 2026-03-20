@@ -64,12 +64,12 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 <br/><br/>
 
-<div style="padding-10px;" align="center">
+<div align="center">
   Let's Connect
 </div>
 <div align="center">
 
-
+<br/><br/>
 
 
 <a href="https://muhammadsubtain-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" /></a>&nbsp;&nbsp;
