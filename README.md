@@ -4,7 +4,6 @@
 
 </div>
 
----
 ## 🧑‍💻 About Me
 
 I am Muhammad Subtain from Islamabad, Pakistan
@@ -14,7 +13,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 - 🚀 Passionate about **React.js**, **Next.js**, and building production-grade full-stack apps
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -41,7 +40,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 🔥 My Stats
 
@@ -62,7 +61,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 </div>
 
----
+
 
 <div align="center">
   Let's Connect
