@@ -105,13 +105,22 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 My Stats
 
 <div align="center">
 
-![Muhammad Subtain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=false&include_all_commits=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsubtain-me&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&stroke=a78bfa)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubtain-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff)
+</div>
+
+<div align="center">
+
+<a href="https://github.com/muhammadsubtain-me">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=false&include_all_commits=true"/>
+</a>
+<a href="https://github.com/muhammadsubtain-me">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubtain-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff"/>
+</a>
 
 </div>
 
