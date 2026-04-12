@@ -53,9 +53,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 <a href="https://github.com/muhammadsubtain-me">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=false&include_all_commits=true"/>
 </a>
-<a href="https://github.com/muhammadsubtain-me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubtain-me&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=ffffff"/>
-</a>
+
  
 </div>
  
