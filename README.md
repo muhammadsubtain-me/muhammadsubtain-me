@@ -10,7 +10,6 @@
 I am Muhammad Subtain from Islamabad, Pakistan
  
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
-- 💼 Former Web Developer Intern at AI Naeco Blue (Berlin, Germany — Remote)
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 - 🚀 Passionate about React.js, Next.js, and building production-grade full-stack apps
  
