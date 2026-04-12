@@ -11,7 +11,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
  
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
-- 🚀 Passionate about React.js, Next.js, and building production-grade full-stack apps
+- 🚀 Passionate about React.js, Express.js, Next.js, and building production-grade full-stack apps
  
 
  
@@ -49,10 +49,7 @@ I am Muhammad Subtain from Islamabad, Pakistan
 </div>
  
 <div align="center">
- 
-<a href="https://github.com/muhammadsubtain-me">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=false&include_all_commits=true"/>
-</a>
+
 
  
 </div>
