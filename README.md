@@ -35,8 +35,7 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
 ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
-![Raylib](https://img.shields.io/badge/Raylib-1a1a2e?style=flat-square&logo=raylib&logoColor=ffffff)
-![libGDX](https://img.shields.io/badge/libGDX-1a1a2e?style=flat-square&logo=libgdx&logoColor=E8001D)
+
 
 ## 🔥 My Stats
 <div align="center">
