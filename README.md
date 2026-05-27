@@ -8,77 +8,13 @@ I am Muhammad Subtain from Islamabad, Pakistan
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <h3>{ &nbsp;} &nbsp;&nbsp;Languages</h3>
-            <sub>Core programming languages</sub>
-            <br/><br/>
-            <kbd>JavaScript</kbd>&nbsp;
-            <kbd>Java</kbd>&nbsp;
-            <kbd>C</kbd>&nbsp;
-            <kbd>C++</kbd>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <h3>◈ &nbsp;&nbsp;Frontend</h3>
-            <sub>UI & styling toolkit</sub>
-            <br/><br/>
-            <kbd>HTML</kbd>&nbsp;
-            <kbd>CSS</kbd>&nbsp;
-            <kbd>JavaScript</kbd>&nbsp;
-            <kbd>React.js</kbd>&nbsp;
-            <kbd>Next.js</kbd>&nbsp;
-            <kbd>Tailwind CSS</kbd>&nbsp;
-            <kbd>Shadcn</kbd>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <h3>○ &nbsp;&nbsp;Backend</h3>
-            <sub>Server & data layer</sub>
-            <br/><br/>
-            <kbd>Node.js</kbd>&nbsp;
-            <kbd>Express.js</kbd>&nbsp;
-            <kbd>Supabase</kbd>&nbsp;
-            <kbd>MongoDB</kbd>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <td width="50%" valign="top">
-      <table width="100%">
-        <tr>
-          <td>
-            <h3>⚙ &nbsp;&nbsp;Tools & Deployment</h3>
-            <sub>Dev toolchain</sub>
-            <br/><br/>
-            <kbd>Vercel</kbd>&nbsp;
-            <kbd>Git</kbd>&nbsp;
-            <kbd>Vite</kbd>&nbsp;
-            <kbd>Linux</kbd>&nbsp;
-            <kbd>Raylib</kbd>&nbsp;
-            <kbd>libGDX</kbd>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+**Languages** — JavaScript · Java · C · C++
+
+**Frontend** — HTML · CSS · JavaScript · React.js · Next.js · Tailwind CSS · Shadcn
+
+**Backend** — Node.js · Express.js · Supabase · MongoDB
+
+**Tools & Deployment** — Vercel · Git · Vite · Linux · Raylib · libGDX
 
 ## 🔥 My Stats
 
