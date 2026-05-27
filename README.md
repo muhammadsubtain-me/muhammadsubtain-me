@@ -1,9 +1,9 @@
 ## 🧑‍💻 About Me
 
-I am Muhammad Subtain from Islamabad, Pakistan
+Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
-- 🚀 Passionate about React.js, Express.js, Next.js, and building production-grade full-stack apps
+- 🚀 I build full-stack apps with React.js, Next.js, and Express.js — from idea to production.
 - 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
 
 ## 🛠️ Tech Stack
