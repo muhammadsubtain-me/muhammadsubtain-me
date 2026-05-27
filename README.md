@@ -28,6 +28,7 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 ![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
 
 <p><strong>Tools & Deployment</strong></p>
 
