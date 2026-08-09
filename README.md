@@ -1,15 +1,14 @@
 ## 🧑‍💻 About Me
 Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
-- 🚀 I build full-stack apps with React.js, Next.js, and Express.js — from idea to production.
-- 🏆 Top 50 Nationwide qualifier of National Science Test Contest (NSTC), HEC & PIEAS
+- 🚀 I build full-stack web apps with React.js, Next.js, and Express.js — from idea to production.
 
 ## 🛠️ Tech Stack
 
 <p><strong>Languages</strong></p>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f89820)
+![C#](https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=9B59B6)
 ![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=6eb5ff)
 ![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=c%2B%2B&logoColor=6eb5ff)
 
@@ -26,6 +25,7 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 
 ![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=flat-square&logo=dotnet&logoColor=512BD4)
 ![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
@@ -33,6 +33,7 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 <p><strong>Tools & Deployment</strong></p>
 
 ![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=ffffff)
+![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=0078D4)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
 ![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
