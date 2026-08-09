@@ -1,4 +1,3 @@
-Claude finished the response
 ## 🧑‍💻 About Me
 Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
