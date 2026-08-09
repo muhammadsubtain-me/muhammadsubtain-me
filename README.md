@@ -1,59 +1,74 @@
-## 🧑‍💻 About Me
-Hi, I'm Muhammad Subtain from Islamabad, Pakistan
-- 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
-- 🚀 I build full-stack web apps with React.js, Next.js, and Express.js — from idea to production.
+# 👋 Hi, I'm Muhammad Subtain
+
+💻 **Computer & Information Science Student | Full-Stack Developer**
+
+I'm a Computer & Information Science student at **PIEAS, Islamabad**, passionate about building modern, scalable, and practical software.
+
+🚀 I build **full-stack web applications** using React, Next.js, Express.js, and ASP.NET Core — taking projects from **idea to production**.
+
+---
 
 ## 🛠️ Tech Stack
 
-<p><strong>Languages</strong></p>
+### 💻 Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![C#](https://img.shields.io/badge/C%23-1a1a2e?style=flat-square&logo=csharp&logoColor=9B59B6)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=6eb5ff)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=c%2B%2B&logoColor=6eb5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![C%23](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=csharp)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
 
-<p><strong>Frontend</strong></p>
+### 🎨 Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1a1a2e?style=flat-square&logo=shadcnui&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?style=for-the-badge&logo=shadcnui)
 
-<p><strong>Backend & Database</strong></p>
+### ⚙️ Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1a1a2e?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-000?style=for-the-badge&logo=dotnet)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
 
-<p><strong>Tools & Deployment</strong></p>
+### 🧰 Tools & Deployment
 
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=ffffff)
-![Azure](https://img.shields.io/badge/Azure-1a1a2e?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoftazure)
+![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
-## 🔥 My Stats
+---
 
-<div align="center">
+## 🔥 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=muhammadsubtain-me&theme=tokyonight&hide_border=true&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=ffffff&dates=888888&stroke=a78bfa)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammadsubtain-me&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=muhammadsubtain-me&theme=tokyonight&hide_border=true" />
+</p>
 
-<div align="center">
-  <h3>Let's Connect</h3>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadsubtain-me&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<br/><br/>
+---
 
-<div align="center">
-<a href="https://muhammadsubtain-portfolio.vercel.app/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
-<a href="mailto:mumammadsubtain.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
-</div>
+## 🤝 Let's Connect
+
+I'm always interested in **software development, full-stack projects, open-source collaboration, and learning new technologies**.
+
+Feel free to explore my repositories and connect with me!
+
+---
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b>
+</p>
