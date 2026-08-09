@@ -1,3 +1,4 @@
+Claude finished the response
 ## 🧑‍💻 About Me
 Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 - 🎓 Studying BSc Computer & Information Science at PIEAS, Islamabad
@@ -39,6 +40,3 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan
 <a href="https://www.linkedin.com/in/muhammad-subtain-34280b243/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" /></a>&nbsp;&nbsp;
 <a href="mailto:mumammadsubtain.cs@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" /></a>
 </div>
-
-
-remove java completely and add C#, ASP.NET Core & Azure
