@@ -5,32 +5,34 @@ Hi, I'm Muhammad Subtain from Islamabad, Pakistan.
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a2e?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=flat-square&logo=openjdk&logoColor=f89820)
-![C](https://img.shields.io/badge/C-1a1a2e?style=flat-square&logo=c&logoColor=6eb5ff)
-![C++](https://img.shields.io/badge/C++-1a1a2e?style=flat-square&logo=c%2B%2B&logoColor=6eb5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=1572B6)
-![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-1a1a2e?style=flat-square&logo=shadcnui&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
 ### Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-1a1a2e?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-1a1a2e?style=flat-square&logo=express&logoColor=ffffff)
-![Supabase](https://img.shields.io/badge/Supabase-1a1a2e?style=flat-square&logo=supabase&logoColor=3ECF8E)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=flat-square&logo=mongodb&logoColor=47A248)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-000000?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Tools & Deployment
-![Vercel](https://img.shields.io/badge/Vercel-1a1a2e?style=flat-square&logo=vercel&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-1a1a2e?style=flat-square&logo=git&logoColor=F05032)
-![Vite](https://img.shields.io/badge/Vite-1a1a2e?style=flat-square&logo=vite&logoColor=646CFF)
-![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=FCC624)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
 
 ## 🔥 My Stats
 
